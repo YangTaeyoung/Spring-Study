@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a5c5faf-50d4-4fd9-9ccc-45336710a20c" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/exception/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exception/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exception/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exception/src/main/java/com/example/exception/ExceptionApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exception/src/main/java/com/example/exception/advice/ApiControllerAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exception/src/main/java/com/example/exception/controller/ApiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exception/src/main/java/com/example/exception/dto/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exception/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exception/src/test/java/com/example/exception/ExceptionApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation/src/main/java/com/example/validation/annotation/YearMonth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation/src/main/java/com/example/validation/dto/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation/src/main/java/com/example/validation/validator/YearMonthValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../object-mapper/src/main/java/com/example/objectmapper/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../object_mapper/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../object_mapper/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../object_mapper/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../object_mapper/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../object_mapper/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../object_mapper/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../object_mapper/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../object_mapper/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../object_mapper/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../object_mapper/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../object_mapper/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../object_mapper/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../object_mapper/sample.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../object_mapper/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../object_mapper/src/main/java/dto/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../object_mapper/src/main/java/dto/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../validation/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../validation/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../validation/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../validation/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../validation/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../validation/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../validation/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../validation/src/main/java/com/example/validation/ValidationApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../validation/src/main/java/com/example/validation/controller/ApiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../validation/src/main/java/com/example/validation/dto/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../validation/src/main/java/com/example/validation/dto/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../validation/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../validation/src/test/java/com/example/validation/ValidationApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-Study" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/response/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/response/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/response/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/response/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/response/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/response/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/response/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/response/src/main/java/com/example/response/ResponseApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/response/src/main/java/com/example/response/controller/ApiController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/response/src/main/java/com/example/response/controller/PageController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/response/src/main/java/com/example/response/dto/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/response/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/response/src/main/resources/static/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/response/src/test/java/com/example/response/ResponseApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/validation/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation/src/main/java/com/example/validation/dto/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/validation/src/main/java/com/example/validation/dto/User.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1y1vd6t3RJ1MJovDNrjBwJqihMN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="7a5c5faf-50d4-4fd9-9ccc-45336710a20c" name="변경" comment="" />
+      <created>1631431992390</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631431992390</updated>
+      <workItem from="1631431993969" duration="36000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
