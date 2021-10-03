@@ -1,31 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b8abd0ca-b320-4d33-8087-50f749bb8cba" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/calculator/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/build/classes/java/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/src/main/java/Calculater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/src/main/java/DollarCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/src/main/java/ICalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/src/main/java/KrwCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/src/main/java/MarketApi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_study/exception/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Spring_study/exception/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_study/exception/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/Spring_study/exception/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_study/exception/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/Spring_study/exception/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/exception/.gitignore~merged_0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/exception/gradle/wrapper/gradle-wrapper.properties~merged_0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/main/java/com/example/client/ClientApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/test/java/com/example/client/ClientApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/src/main/java/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/master" />
+  </component>
+  <component name="Git.Pull.Settings">
+    <option name="OPTIONS">
+      <set>
+        <option value="REBASE" />
+      </set>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1xRI86D6aa0QxZYFtv8EUrfPivN" />
@@ -42,6 +58,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -62,5 +82,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Merge branch 'master' of https://github.com/YangTaeyoung/Spring-Study&#10;&#10; Conflicts:&#10;&#9;Spring_study/exception/gradle/wrapper/gradle-wrapper.jar&#10;&#9;Spring_study/exception/gradlew&#10;&#9;Spring_study/exception/gradlew.bat&#10;&#9;calculator/.idea/runConfigurations.xml&#10;&#9;calculator/.idea/vcs.xml&#10;&#9;calculator/gradle/wrapper/gradle-wrapper.jar&#10;&#9;calculator/gradlew&#10;&#9;calculator/gradlew.bat&#10;&#9;client/.gitignore&#10;&#9;client/build.gradle&#10;&#9;client/gradle/wrapper/gradle-wrapper.jar&#10;&#9;client/gradle/wrapper/gradle-wrapper.properties&#10;&#9;client/gradlew&#10;&#9;client/gradlew.bat&#10;&#9;client/src/main/java/com/example/client/ClientApplication.java&#10;&#9;client/src/test/java/com/example/client/ClientApplicationTests.java&#10;&#9;exception/.gitignore&#10;&#9;exception/gradle/wrapper/gradle-wrapper.properties" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/YangTaeyoung/Spring-Study&#10;&#10; Conflicts:&#10;&#9;Spring_study/exception/gradle/wrapper/gradle-wrapper.jar&#10;&#9;Spring_study/exception/gradlew&#10;&#9;Spring_study/exception/gradlew.bat&#10;&#9;calculator/.idea/runConfigurations.xml&#10;&#9;calculator/.idea/vcs.xml&#10;&#9;calculator/gradle/wrapper/gradle-wrapper.jar&#10;&#9;calculator/gradlew&#10;&#9;calculator/gradlew.bat&#10;&#9;client/.gitignore&#10;&#9;client/build.gradle&#10;&#9;client/gradle/wrapper/gradle-wrapper.jar&#10;&#9;client/gradle/wrapper/gradle-wrapper.properties&#10;&#9;client/gradlew&#10;&#9;client/gradlew.bat&#10;&#9;client/src/main/java/com/example/client/ClientApplication.java&#10;&#9;client/src/test/java/com/example/client/ClientApplicationTests.java&#10;&#9;exception/.gitignore&#10;&#9;exception/gradle/wrapper/gradle-wrapper.properties" />
   </component>
 </project>
