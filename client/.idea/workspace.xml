@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fd6837b9-d0a6-4486-b2b5-2f899cf4f795" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/../async/src/main/java/com/example/async/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/client/controller/ApiConroller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/client/dto/Req.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/client/dto/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/client/service/RestTemplateService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server/src/main/java/com/example/server/controller/ServerApiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server/src/main/java/com/example/server/dto/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_study/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_study/.idea/Spring_study.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_study/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_study/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_study/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_study/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_study/exception/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_study/exception/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_study/exception/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_study/exception/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_study/exception/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_study/exception/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_study/exception/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_study/exception/src/main/java/com/example/exception/ExceptionApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_study/exception/src/main/java/com/example/exception/advice/ApiControllerAdvice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_study/exception/src/main/java/com/example/exception/controller/ApiController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_study/exception/src/main/java/com/example/exception/dto/Error.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_study/exception/src/main/java/com/example/exception/dto/ErrorResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_study/exception/src/main/java/com/example/exception/dto/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_study/exception/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_study/exception/src/test/java/com/example/exception/ExceptionApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_study/validation/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_study/validation/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_study/validation/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_study/validation/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_study/validation/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_study/validation/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_study/validation/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_study/validation/src/main/java/com/example/validation/ValidationApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_study/validation/src/main/java/com/example/validation/annotation/YearMonth.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_study/validation/src/main/java/com/example/validation/controller/ApiController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_study/validation/src/main/java/com/example/validation/dto/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_study/validation/src/main/java/com/example/validation/dto/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_study/validation/src/main/java/com/example/validation/validator/YearMonthValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_study/validation/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_study/validation/src/test/java/com/example/validation/ValidationApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../async/src/main/java/com/example/async/AsyncApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../async/src/main/java/com/example/async/AsyncApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../async/src/main/java/com/example/async/controller/ApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../async/src/main/java/com/example/async/controller/ApiController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../async/src/main/java/com/example/async/service/AsyncService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../async/src/main/java/com/example/async/service/AsyncService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../validation/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../validation/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../validation/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../validation/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../validation/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../validation/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../validation/src/main/java/com/example/validation/controller/ApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../validation/src/main/java/com/example/validation/controller/ApiController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../validation/src/main/java/com/example/validation/dto/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../validation/src/main/java/com/example/validation/dto/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../validation/src/main/java/com/example/validation/dto/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../validation/src/main/java/com/example/validation/dto/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../validation/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../validation/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1y8U5cG3m1Gzm2GlL4TmKD4APyx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="client.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.client.ClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="fd6837b9-d0a6-4486-b2b5-2f899cf4f795" name="변경" comment="" />
+      <created>1631632527471</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631632527471</updated>
+      <workItem from="1631632529148" duration="2656000" />
+      <workItem from="1631686596237" duration="3000" />
+      <workItem from="1631686705562" duration="5552000" />
+      <workItem from="1632720810886" duration="589000" />
+      <workItem from="1632721422963" duration="14367000" />
+      <workItem from="1633236755024" duration="377000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
