@@ -3,6 +3,22 @@
   <component name="ChangeListManager">
     <list default="true" id="b8abd0ca-b320-4d33-8087-50f749bb8cba" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_study/exception/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Spring_study/exception/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_study/exception/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/Spring_study/exception/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_study/exception/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/Spring_study/exception/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/exception/.gitignore~merged_0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/exception/gradle/wrapper/gradle-wrapper.properties~merged_0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main/java/com/example/client/ClientApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/test/java/com/example/client/ClientApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,11 +29,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1xRI86D6aa0QxZYFtv8EUrfPivN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -33,10 +53,14 @@
       <updated>1630311311619</updated>
       <workItem from="1630311313427" duration="165000" />
       <workItem from="1630557946858" duration="1087000" />
+      <workItem from="1632474281853" duration="48000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
