@@ -5,25 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8abd0ca-b320-4d33-8087-50f749bb8cba" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/calculator/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator/build/classes/java/main/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator/src/main/java/Calculater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator/src/main/java/DollarCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator/src/main/java/ICalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator/src/main/java/KrwCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator/src/main/java/MarketApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-calculator/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-calculator/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-calculator/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-calculator/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-calculator/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-calculator/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-calculator/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-calculator/src/main/java/com/example/springcalculator/SpringCalculatorApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-calculator/src/main/java/com/example/springcalculator/component/Calculater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-calculator/src/main/java/com/example/springcalculator/component/DollarCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-calculator/src/main/java/com/example/springcalculator/component/ICalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-calculator/src/main/java/com/example/springcalculator/component/MarketApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-calculator/src/main/java/com/example/springcalculator/controller/CalculatorApiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-calculator/src/main/java/com/example/springcalculator/dto/Req.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-calculator/src/main/java/com/example/springcalculator/dto/Res.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-calculator/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-calculator/src/test/java/com/example/springcalculator/SpringCalculatorApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-calculator/src/test/java/com/example/springcalculator/component/DollarCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-calculator/src/test/java/com/example/springcalculator/controller/CalculatorApiControllerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/src/main/java/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
