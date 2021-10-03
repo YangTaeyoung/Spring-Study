@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.scheduling.annotation.EnableAsync;
 
 @SpringBootApplication
-// @EnableAsync // 비동기 처리를 하기 위한 설정.
+@EnableAsync // 비동기 처리를 하기 위한 설정.
 public class AsyncApplication {
 
     public static void main(String[] args) {
