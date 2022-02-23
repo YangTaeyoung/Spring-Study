@@ -31,7 +31,7 @@ import java.util.List;
 @EntityListeners(value = {UserEntityListener.class})
 public class User extends BaseEntity {
     @Id
-    @GeneratedValue // 자동으로 키가 증가하도록 설정.
+    @GeneratedValue(strategy = GenerationType.IDENTITY) // 자동으로 키가 증가하도록 설정.
     private Long id;
 
     @NonNull

@@ -18,7 +18,7 @@ class BookReviewInfoRepositoryTest {
     @Test
     void crudTest() {
         BookReviewInfo bookReviewInfo = new BookReviewInfo();
-        bookReviewInfo.setBookId(1L);
+        //bookReviewInfo.setBook(1L);
         bookReviewInfo.setAverageReviewScore(4.5f);
         bookReviewInfo.setReviewCount(2);
 
@@ -28,27 +28,34 @@ class BookReviewInfoRepositoryTest {
 
     @Test
     void crudTest2() {
-        Book book = new Book();
-        book.setName("노인과 바다");
-        book.setAutherId(1L);
-        book.setPulisherId(1L);
-        bookRepository.save(book);
-        System.out.println(">>>" + bookRepository.findAll());
-        BookReviewInfo bookReviewInfo = new BookReviewInfo();
-        bookReviewInfo.setBookId(1L);
-        bookReviewInfo.setAverageReviewScore(4.5f);
-        bookReviewInfo.setReviewCount(2);
-
-        bookReviewInfoRepository.save((bookReviewInfo));
-
-        System.out.println(">>> " + bookReviewInfoRepository.findAll());
+        givenBookReviewInfo(givenBook());
 
         Book result = bookRepository.findById(
                 bookReviewInfoRepository
                         .findById(1L)
                         .orElseThrow(RuntimeException::new)
-                        .getBookId()
+                        .getBook().getId()
         ).orElseThrow(RuntimeException::new);
         System.out.println(">>>" + result);
+
+        BookReviewInfo result2 = bookReviewInfoRepository.findById(1L).orElseThrow(RuntimeException::new);
+        System.out.println(result2);
+    }
+
+    private Book givenBook() {
+        Book book = new Book();
+        book.setName("노인과 바다");
+        book.setAutherId(1L);
+        book.setPulisherId(1L);
+        return bookRepository.save(book);
+    }
+
+    private void givenBookReviewInfo(Book book) {
+        BookReviewInfo bookReviewInfo = new BookReviewInfo();
+        bookReviewInfo.setBook(book);
+        bookReviewInfo.setAverageReviewScore(4.5f);
+        bookReviewInfo.setReviewCount(2);
+
+        bookReviewInfoRepository.save((bookReviewInfo));
     }
 }

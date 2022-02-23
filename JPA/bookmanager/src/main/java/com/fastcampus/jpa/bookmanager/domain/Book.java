@@ -14,7 +14,7 @@ import javax.persistence.*;
 @EqualsAndHashCode(callSuper = true)
 public class Book extends BaseEntity {
     @Id
-    @GeneratedValue
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
     private String name;
@@ -22,6 +22,10 @@ public class Book extends BaseEntity {
     private Long autherId;
 
     private Long pulisherId;
+
+    @OneToOne(mappedBy = "book")
+    @ToString.Exclude // 순환 참조를 방지하기 위한 옵션
+    private BookReviewInfo bookReviewInfo;
 
 //    @CreatedDate
 //    private LocalDateTime createdAt;
